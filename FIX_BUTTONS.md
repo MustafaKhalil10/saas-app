@@ -70,8 +70,8 @@ DB_USERNAME=root
 DB_PASSWORD=
 
 # Stripe (أضف هذه الأسطر)
-STRIPE_KEY=pk_test_51xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-STRIPE_SECRET=sk_test_51xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+STRIPE_KEY=pk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+STRIPE_SECRET=sk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # Mollie (أضف هذا السطر)
 MOLLIE_KEY=test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
