@@ -14,11 +14,11 @@
 
 ```env
 # Stripe API Keys (للخطط USD)
-STRIPE_KEY=pk_test_xxx
-STRIPE_SECRET=sk_test_xxx
+STRIPE_KEY=pk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+STRIPE_SECRET=sk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # Mollie API Key (للخطط EUR)  
-MOLLIE_KEY=test_xxx
+MOLLIE_KEY=test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
 ### الخطوة 3: أعد تحميل Config
@@ -70,11 +70,11 @@ DB_USERNAME=root
 DB_PASSWORD=
 
 # Stripe (أضف هذه الأسطر)
-STRIPE_KEY=pk_test_xxx
-STRIPE_SECRET=sk_test_xxx
+STRIPE_KEY=pk_test_51xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+STRIPE_SECRET=sk_test_51xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # Mollie (أضف هذا السطر)
-MOLLIE_KEY=test_xxx
+MOLLIE_KEY=test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
 ---

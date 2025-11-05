@@ -14,12 +14,12 @@
 
 ```env
 # Stripe Keys (للخطط USD)
-STRIPE_KEY=pk_test_xxx
-STRIPE_SECRET=sk_test_xxx
-STRIPE_WEBHOOK_SECRET=whsec_xxx
+STRIPE_KEY=pk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+STRIPE_SECRET=sk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+STRIPE_WEBHOOK_SECRET=whsec_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # Mollie Key (للخطط EUR)
-MOLLIE_KEY=test_xxx
+MOLLIE_KEY=test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
 ### 3. احصل على API Keys:
@@ -65,12 +65,12 @@ DB_USERNAME=root
 DB_PASSWORD=
 
 # Stripe
-STRIPE_KEY=pk_test_xxx
-STRIPE_SECRET=sk_test_xxx
-STRIPE_WEBHOOK_SECRET=whsec_xxx
+STRIPE_KEY=pk_test_51xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+STRIPE_SECRET=sk_test_51xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+STRIPE_WEBHOOK_SECRET=whsec_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # Mollie
-MOLLIE_KEY=test_xxx
+MOLLIE_KEY=test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # Twilio (للإشعارات - اختياري)
 TWILIO_ACCOUNT_SID=ACxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
