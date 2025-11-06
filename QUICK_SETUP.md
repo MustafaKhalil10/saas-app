@@ -65,12 +65,12 @@ DB_USERNAME=root
 DB_PASSWORD=
 
 # Stripe
-STRIPE_KEY=pk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-STRIPE_SECRET=sk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-STRIPE_WEBHOOK_SECRET=whsec_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+STRIPE_KEY=pk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+STRIPE_SECRET=sk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+STRIPE_WEBHOOK_SECRET=whsec_xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # Mollie
-MOLLIE_KEY=test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+MOLLIE_KEY=test_xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # Twilio (للإشعارات - اختياري)
 TWILIO_ACCOUNT_SID=ACxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
